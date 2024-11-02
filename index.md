@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Architect's Palette: Welcome to my first blog!
 ---
-Welcome to my first blog!
+
